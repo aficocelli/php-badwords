@@ -1,6 +1,14 @@
+h1{
+  text-align:center;
+}
 .text-box{
   width:25%;
+  margin: 0 auto;
+  text-align: center;
 }
 .text-box p{
   line-height: 20px;
+}
+span{
+  font-weight: bold;
 }
