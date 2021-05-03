@@ -11,5 +11,6 @@
   ?>
   <body>
     <p> <?php echo str_replace($bad_words, '***', $text) ?></p>
+    <p>la lunghezza del paragrafo è <?php echo strlen($text) ?></p>
   </body>
 </html>
